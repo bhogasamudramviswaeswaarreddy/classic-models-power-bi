@@ -52,9 +52,9 @@ classic_models_powerbi/
 ---
 
 ## 📄 License
-This project is open-source under the [MIT License](LICENSE).
+This project is open-source under the [sMIT License](LICENSE).
 
 ---
 
 ## ✨ Author
-Created by Trinadh Jagarlamudi(https://github.com/trinadh8247)
+Created by Bogsamudram Visweswar Reddy
